@@ -21,9 +21,12 @@ namespace webapisample.Data
 
 
                // string keyVaultUrl = "https://<YourKeyVaultName>.vault.azure.net/";
-                string clientId = "acb1b3a2-cd2d-4cc9-ac45-93efff1a334e";
-                string clientSecret = "8Ng8Q~Fqmpx7fnS2owoS17ZXHPL3aDwynE-yQaa9";
-                string tenantId = "b26e8969-ffd9-48cb-95bc-318edbd6cd3e";
+                //string clientId = "acb1b3a2-cd2d-4cc9-ac45-93efff1a334e";
+                //string clientSecret = "8Ng8Q~Fqmpx7fnS2owoS17ZXHPL3aDwynE-yQaa9";
+                //string tenantId = "b26e8969-ffd9-48cb-95bc-318edbd6cd3e";
+                string clientId = "";
+                string clientSecret = "";
+                string tenantId = "";
                 //string secretName = "<YourSecretName>";
 
 
