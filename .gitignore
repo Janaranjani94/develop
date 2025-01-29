@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/webapisample/bin
+/.vs/webapisample/FileContentIndex
+/.vs/webapisample/v17/.futdcache.v2
+/.vs/webapisample/v17/.suo
+/.vs/webapisample/v17/.wsuo
+/.vs
+/webapisample/obj
+/webapisample/Properties
