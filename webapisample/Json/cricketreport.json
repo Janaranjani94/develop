@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-01-18",
+    "revision": 1
+  },
+  "match": {
+    "id": "2025-01-18-ENGvIND",
+    "date": "2025-01-18",
+    "type": "Test",
+    "venue": "Old Trafford, Manchester",
+    "teams": [ "England", "India" ],
+    "result": "England won by 150 runs"
+  },
+  "innings": [
+    {
+      "inning_no": 1,
+      "batting_team": "England",
+      "runs": 350,
+      "wickets": 8,
+      "overs": 90,
+      "batting": [
+        {
+          "name": "Joe Root",
+          "runs": 120,
+          "balls": 150,
+          "fours": 15,
+          "six": 2,
+          "dismissal": "caught behind off Sharma"
+        },
+        {
+          "name": "Ben Stokes",
+          "runs": 80,
+          "balls": 100,
+          "fours": 10,
+          "six": 1,
+          "dismissal": "bowled by Patel"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jasprit Bumrah",
+          "overs": 20,
+          "runs": 70,
+          "wickets": 2,
+          "maiden": 5
+        },
+        {
+          "name": "Ravichandran Ashwin",
+          "overs": 18,
+          "runs": 60,
+          "wickets": 1,
+          "maiden": 4
+        }
+      ]
+    },
+    {
+      "inning_no": 2,
+      "batting_team": "India",
+      "runs": 200,
+      "wickets": 10,
+      "overs": 60,
+      "batting": [
+        {
+          "name": "Virat Kohli",
+          "runs": 50,
+          "balls": 80,
+          "fours": 7,
+          "six": 1,
+          "dismissal": "caught at slip off Anderson"
+        },
+        {
+          "name": "Rohit Sharma",
+          "runs": 40,
+          "balls": 60,
+          "fours": 5,
+          "six": 0,
+          "dismissal": "bowled by Broad"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "James Anderson",
+          "overs": 15,
+          "runs": 40,
+          "wickets": 3,
+          "maiden": 3
+        },
+        {
+          "name": "Stuart Broad",
+          "overs": 12,
+          "runs": 30,
+          "wickets": 2,
+          "maiden": 2
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "over": 15,
+      "ball": 3,
+      "event": "Wicket",
+      "description": "Joe Root caught behind off Sharma"
+    },
+    {
+      "over": 45,
+      "ball": 2,
+      "event": "Wicket",
+      "description": "Ben Stokes bowled by Patel"
+    }
+  ]
+}
