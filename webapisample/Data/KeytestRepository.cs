@@ -32,7 +32,7 @@ namespace webapisample.Data
 
 
                 // Replace with the name of the secret
-                string secretName = "azuresqldbconnection";
+                string secretName = "IcollegeDBconnection";
                
 
                 try
